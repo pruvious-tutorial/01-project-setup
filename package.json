@@ -1,6 +1,13 @@
 {
   "name": "@pruvious-tutorial/01-project-setup",
   "private": true,
+  "description": "A minimalistic portfolio template made with Nuxt & Pruvious.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pruvious-tutorial/01-project-setup.git"
+  },
+  "author": "Muris Ceman <hello@pruvious.com>",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
